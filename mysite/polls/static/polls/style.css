@@ -1,0 +1,9 @@
+/* Le sous répertoire polls dans static permet à django de se référer au bon fichier de style dans une logique de chemin "namespace" */
+
+li a {
+  color: green;
+}
+
+body {
+  background: white url("images/background.gif") no-repeat;
+}
